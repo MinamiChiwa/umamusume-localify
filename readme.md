@@ -1,6 +1,6 @@
-#通知——by MinamiChiwa
--没梯子了，寄，转至Gitee继续更新→https://gitee.com/Minami_Chiwa
--或者回去看看原作者的库https://github.com/GEEKiDoS/umamusume-localify
+# 通知——By MinamiChiwa
+- `没梯子了，寄，转至Gitee继续更新→https://gitee.com/Minami_Chiwa
+- `或者回去看看原作者的库https://github.com/GEEKiDoS/umamusume-localify
 
 # 中文
 ## 赛马娘 (DMM版) 本地化补丁
